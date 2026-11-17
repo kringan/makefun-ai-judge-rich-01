@@ -20,7 +20,7 @@ const PLAN = [
   "Email the owner the live link: 'Your site is live — keep it for $249 or I take it down Friday.'",
   'Days 2-30: build 21 sites a day, email 20 new owners a day, one follow-up each.',
   "At a 5% close rate on 600 pitches that's 30 sales x $249, about $7,500 by day 30, minus about $60 costs; at 2% it's still $3,000.",
-  'After a buyer pays, offer $29 a month hosting and updates — half stay, so income compounds.',
+  'After a buyer pays, offer $29 a month hosting — half stay, adding ~$430 a month by day 30.',
   'Edge: the buyer already spends on ads, the product exists before they pay, and every sale is cash up front.',
 ].join('\n');
 
